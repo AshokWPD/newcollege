@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181363109364",
+    "project_id": "cutnapp",
+    "storage_bucket": "cutnapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181363109364:android:db92d749cab729cf501da1",
+        "android_client_info": {
+          "package_name": "com.example.appcollege"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmA-Kq8WeBQEdEpgCehJU_oq2-lK7RKTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
